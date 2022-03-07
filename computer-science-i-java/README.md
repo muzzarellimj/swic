@@ -14,5 +14,6 @@ This course is delivered in-person with assignments, quizzes, and supplemental r
 
 ### Tentative Schedule
 
-| Week | Topic(s)             | Assignment(s) | Comment(s) |
-|:-----|:---------------------|:--------------|:-----------|
+| Week | Topic(s)             | Assignment(s)                                                                                                                      | Comment(s) |
+|:-----|:---------------------|:-----------------------------------------------------------------------------------------------------------------------------------|:-----------|
+| 1    | Introduction to Java | [Assignment 1](https://github.com/muzzarellimj/swic/blob/master/computer-science-i-java/assignment/assignment-1/src/Schedule.java) | -          |
